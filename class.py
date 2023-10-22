@@ -4,6 +4,3 @@ class Student:
             self.age=age
             self.marks=marks
             return 
-    
-S1=Student("sarvesh",21,89)
-print(Student(S1))
